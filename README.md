@@ -72,4 +72,4 @@ Training tips:
 --------------------------------
 The models and RS_dataset can be found in 
 https://www.beijingcitylab.com/projects-1/56-urban-vacancies/
-https://pan.baidu.com/s/1zDZ41hTsN2QtGaVFPXvwFA (password: 0qew)
+https://cloud.tsinghua.edu.cn/f/6a1437d2478f4727940a/
